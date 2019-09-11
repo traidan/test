@@ -1,6 +1,6 @@
 Program source reference URL:
 https://stackoverflow.com/questions/42651623/microbit-python-rock-paper-scissors-debugging
-
+![](https://github.com/traidan/test/blob/master/Screenshot_20190911-121553%5B1%5D.jpg)
 
 Program (made by Trevon and Aidan)  description:
 
